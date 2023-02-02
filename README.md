@@ -1,2 +1,2 @@
 # Fibonacci
-Patika.dev Java 101 eğitimi kapsamında oluşturulmuş ekrana Fibonacci Serisi yazdıran program.
+[Patika.dev](https://www.patika.dev) [Java 101](https://app.patika.dev/courses/java101) eğitimi kapsamında oluşturulmuş ekrana Fibonacci Serisi yazdıran program.
